@@ -1,5 +1,5 @@
 # Title
-Measurements of secondary organic aerosol over West Africa
+Aircraft measurements of secondary organic aerosol over West Africa
 
 # Authors 
 Simon Davidson
