@@ -22,3 +22,6 @@ Measurements were made using an AMS, as described in Allan et al 2003.
 The simulations reproduced the meaaurements nicely, supportimng the formation process proposed in our previous paper.
 However, we still haven't answered question X, so we'll not retire yet...
 
+# Conclusions
+We did the science. New insights into particle formation were discovered.
+
