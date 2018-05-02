@@ -32,5 +32,5 @@ We did the science. New insights into particle formation were discovered.
 This is where the figures go.
 
 # Acknowledgements
-Thanks to the funding body.
+Thanks to the funding body and also to the National Niger Aerospace Authority
 
