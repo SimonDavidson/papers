@@ -12,3 +12,6 @@ Joe Bloggs has alrewady made some awesome measurements, but hasn't answered all 
 
 Jim Haywood (200) made aircraft measurements over the Sahel, focussing on radioactive forcing.
 
+# Simulations
+John ran his atmospheric model to simulate SOA formation.
+
